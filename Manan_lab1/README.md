@@ -11,3 +11,5 @@ This is a simple C++ console application created for Git Lab 1.
 ## Team Members
 - Manan Doctor
 - Liam Zadoorian
+
+## XChanges Made by Manan: Added a feature greeting
