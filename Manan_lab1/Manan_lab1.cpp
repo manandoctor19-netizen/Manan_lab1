@@ -7,6 +7,7 @@ int main()
 {
     cout << "Hello from Manan! This is my first Git commit" << endl;
     cout << "Git makes collaboration easy!" << endl;
+    cout << "Lab 1 is completed on 4/8/2026!" << endl;
 
 }
 
