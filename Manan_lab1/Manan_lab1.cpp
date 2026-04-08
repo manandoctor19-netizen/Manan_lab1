@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {
-    cout << "Hello from Manan! This is my first Git commit";
+    cout << "Hello from Manan! This is my first Git commit" << endl;
     cout << "Git makes collaboration easy!" << endl;
 
 }
